@@ -1,3 +1,10 @@
 * {
   box-sizing: border-box;
 }
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  text-align: center;
+  text-decoration: line-through;
+}
